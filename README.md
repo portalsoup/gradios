@@ -7,7 +7,7 @@ A simple 2d sidescrolling space shooter to practice game making concepts.
 ### Dependencies:
 Gradle
 
-Build steps
+### Build steps
 
 unpackNatives = Get lwjgl native files for openGL
 
