@@ -30,11 +30,7 @@ natives {
             'lwjgl-platform-2.9.1-natives-osx',
             'lwjgl-platform-2.9.1-natives-linux'
     ]
-    platforms = [
-            'windows',
-            'osx',
-            'linux'
-    ]
+    platforms = 'windows'
 }
 
 run {
